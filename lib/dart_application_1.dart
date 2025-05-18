@@ -11,3 +11,11 @@ void soal2() {
     stdout.write('* ');
   }
 }
+
+void soal3() {
+  int nama = 1;
+  while (nama <= 4) {
+    print("Alfarezhi");
+    nama++;
+  }
+}
