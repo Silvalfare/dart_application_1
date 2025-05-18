@@ -29,7 +29,7 @@ void soal4() {
 }
 
 void soal5() {
-  List<String> sembako = ['Minyak', 'Beras', 'Gula', 'Garam', 'Tepung'];
+  List<String> sembako = ['Minyak', 'Beras', 'Gula', 'Garam', 'Telur'];
 
   for (int list = 0; list < sembako.length; list++) {
     print('Item ke-${list + 1}: ${sembako[list]}');
