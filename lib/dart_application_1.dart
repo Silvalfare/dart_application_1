@@ -27,3 +27,11 @@ void soal4() {
     print('Saya suka $b');
   }
 }
+
+void soal5() {
+  List<String> sembako = ['Minyak', 'Beras', 'Gula', 'Garam', 'Tepung'];
+
+  for (int list = 0; list < sembako.length; list++) {
+    print('Item ke-${list + 1}: ${sembako[list]}');
+  }
+}
