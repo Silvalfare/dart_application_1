@@ -2,7 +2,7 @@ import 'dart:io';
 
 void soal1() {
   for (int ganjil = 1; ganjil <= 20; ganjil += 2) {
-    print(ganjil);
+    stdout.write('$ganjil, ');
   }
 }
 

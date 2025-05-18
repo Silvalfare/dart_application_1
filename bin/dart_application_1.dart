@@ -4,6 +4,7 @@ void main() {
   print('Soal 1:');
   soal1();
   print('');
+  print('');
   print('Soal 2:');
   soal2();
   print('');
